@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Preview][https://github.com/SilasRodrigues19/NexT-Productions/blob/main/preview/preview.mp4]](#)
+[![Preview][product-screenshot]](#)
 
 This project was made during a Laravel Tutorial on YouTube by Matheus Battisti
 
