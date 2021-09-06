@@ -10,10 +10,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/SilasRodrigues19/NexT-Productions">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/SilasRodrigues19/NexT-Productions/blob/main/public/img/favicon.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">NexT Projects</h3>
+  <h3 align="center">NexT Productions</h3>
 
   <p align="center">
     Project made during a Youtube Tutorial by <a href="https://www.youtube.com/watch?v=qH7rsZBENJo&list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG">Matheus Battisti</a>
@@ -212,3 +212,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+<br><hr>
+[🔼 Back to top](#Next-Productions)
+
