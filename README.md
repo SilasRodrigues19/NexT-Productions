@@ -1,3 +1,150 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/SilasRodrigues19/NexT-Productions">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">NexT Projects</h3>
+
+  <p align="center">
+    Project made during a Youtube Tutorial by <a href="https://www.youtube.com/watch?v=qH7rsZBENJo&list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG">Matheus Battisti</a>
+    <br />
+    <br />
+    <a href="#">Demo Unavalaible</a>
+    <a href="https://github.com/SilasRodrigues19/NexT-Productions/issues">Report Bug</a>
+  </p>
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+This project was made during a Laravel Tutorial on YouTube by Matheus Battisti
+
+The website is divided into:
+* **Home / Eventos**: shows all avalaible events.
+* **Criar Evento**: it shows the events create page.
+* **Meus Eventos**: it has the dashboard page to manage created events and see the events you've confirmed attendance.
+* **Sign In / Sign Up**: pages created with Jetstream, registration is required to create and participate in events .
+
+
+### Built With
+
+Technologies used in the project.
+
+### Web Frameworks
+* [Bootstrap](https://getbootstrap.com)
+* [Laravel](https://laravel.com)
+* [Jetstream](https://jetstream.laravel.com/2.x/introduction.html)
+
+### JavaScript Libraries
+* [Iconify](https://iconify.design)
+
+### Font Script
+* [Font Awesome](https://fontawesome.com)
+
+<!-- GETTING STARTED -->
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Create database
+   ``` 
+   php artisan migrate:fresh
+   ```
+4. Run the project
+   ```
+   php artisan serve
+   ```
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Silas Rodrigues - [@jinuye1](https://twitter.com/jinuye1) - silasrodrigues.fatec@gmail.com
+
+Project Link: [https://github.com/SilasRodrigues19/NexT-Productions](https://github.com/SilasRodrigues19/NexT-Productions)
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/SilasRodrigues19/NexT-Productions.svg?style=for-the-badge
+[contributors-url]: https://github.com/SilasRodrigues19/NexT-Productions/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/NexT-Productions.svg?style=for-the-badge
+[forks-url]: https://github.com/SilasRodrigues19/NexT-Productions/network/members
+[stars-shield]: https://img.shields.io/github/stars/SilasRodrigues19/NexT-Productions.svg?style=for-the-badge
+[stars-url]: https://github.com/SilasRodrigues19/NexT-Productions/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/NexT-Productions.svg?style=for-the-badge
+[issues-url]: https://github.com/SilasRodrigues19/NexT-Productions/issues
+[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/NexT-Productions.svg?style=for-the-badge
+[license-url]: https://github.com/SilasRodrigues19/NexT-Productions/blob/master/LICENSE.txt
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
