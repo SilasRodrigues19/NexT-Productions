@@ -126,7 +126,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Silas Rodrigues - [@jinuye1](https://twitter.com/jinuye1) - silasrodrigues.fatec@gmail.com
 
-Project Link: [https://github.com/SilasRodrigues19/NexT-Productions](https://github.com/SilasRodrigues19/NexT-Productions)
+Project Link: [https://github.com/SilasRodrigues19/NexT-Productions](https://github.com/SilasRodrigues19/NexT-Productions) <br>
 Demo Link: [https://vimeo.com/599010621](https://vimeo.com/599010621)
 
 
