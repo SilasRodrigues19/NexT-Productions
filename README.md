@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/SilasRodrigues19/NexT-Productions">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/SilasRodrigues19/NexT-Productions/blob/main/public/img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">NexT Projects</h3>
@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Preview][https://github.com/SilasRodrigues19/NexT-Productions/blob/main/preview/preview.mp4]](#)
 
 This project was made during a Laravel Tutorial on YouTube by Matheus Battisti
 
@@ -142,7 +142,8 @@ Project Link: [https://github.com/SilasRodrigues19/NexT-Productions](https://git
 [issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/NexT-Productions.svg?style=for-the-badge
 [issues-url]: https://github.com/SilasRodrigues19/NexT-Productions/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/NexT-Productions.svg?style=for-the-badge
-[license-url]: https://github.com/SilasRodrigues19/NexT-Productions/blob/master/LICENSE.txt
+[license-url]: https://github.com/SilasRodrigues19/NexT-Productions/blob/master/LICENSE
+[product-screenshot]: https://github.com/SilasRodrigues19/NexT-Productions/blob/main/preview/preview.mp4
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
@@ -209,3 +210,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+<br><hr>
+[🔼 Back to top](#Next-Projects)
