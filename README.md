@@ -54,11 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<<<<<<< HEAD
 [![Preview][product-screenshot]](https://vimeo.com/599010621)
-=======
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
->>>>>>> parent of 50abfb45 (Update README.md)
 
 This project was made during a Laravel Tutorial on YouTube by Matheus Battisti
 
@@ -146,13 +142,9 @@ Project Link: [https://github.com/SilasRodrigues19/NexT-Productions](https://git
 [issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/NexT-Productions.svg?style=for-the-badge
 [issues-url]: https://github.com/SilasRodrigues19/NexT-Productions/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/NexT-Productions.svg?style=for-the-badge
-<<<<<<< HEAD
 [license-url]: https://github.com/SilasRodrigues19/NexT-Productions/blob/master/LICENSE
 [product-screenshot]: https://github.com/SilasRodrigues19/NexT-Productions/blob/main/preview/preview.png
-=======
 [license-url]: https://github.com/SilasRodrigues19/NexT-Productions/blob/master/LICENSE.txt
->>>>>>> parent of 50abfb45 (Update README.md)
-
 
 <hr>
 
