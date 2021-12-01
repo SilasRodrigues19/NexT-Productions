@@ -8,6 +8,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
+<samp>
 <p align="center">
   <a href="https://github.com/SilasRodrigues19/NexT-Productions">
     <img src="https://github.com/SilasRodrigues19/NexT-Productions/blob/main/public/img/favicon.png?raw=true" alt="Logo" width="80" height="80">
